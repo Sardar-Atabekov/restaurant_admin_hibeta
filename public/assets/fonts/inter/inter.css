@@ -1,0 +1,41 @@
+/* @font-face {
+	font-family: 'Inter var';
+	font-weight: 100 900;
+	font-display: swap;
+	font-style: normal;
+	font-named-instance: 'Regular';
+	src: url('Inter-roman.var.woff2?v=3.18') format('woff2');
+}
+
+@font-face {
+	font-family: 'Inter var';
+	font-weight: 100 900;
+	font-display: swap;
+	font-style: italic;
+	font-named-instance: 'Italic';
+	src: url('Inter-italic.var.woff2?v=3.18') format('woff2');
+} */
+/* @font-face {
+    font-family: 'Nunito';
+    src:  url('Nunito-SemiBold') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+} */
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 100 900;
+    font-display: swap;
+	/* font-display: swap;
+    font-style: italic; */
+	font-style: Bold;
+	font-named-instance: 'Regular';
+	src: url('Nunito-SemiBold.woff2?v=3.18') format('woff2');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-weight: 100 900;
+	font-display: swap;
+    font-style: Bold;
+	font-named-instance: 'Bold';
+	src: url('Nunito-VariableFont_wght.woff2?v=3.18') format('woff2');
+}
